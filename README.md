@@ -4,4 +4,4 @@
  
 ### Neste repositório você encontrará os projetos nos quais eu já trabalhei, envolvendo habilidades em programação e análise de dados.
 
-### Conecete-se comigo no LinkedIn: https://www.linkedin.com/in/gabriel-valverde-62141a227/
+### Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/gabriel-valverde-62141a227/
